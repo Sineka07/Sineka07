@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sineka%20S&section=header&reversal=false&textBg=false&fontSize=75&fontAlign=50&fontAlignY=49&desc=&&descAlign=40&descAlignY=60" alt="Header">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;🚀+Full-Stack+Web+Development+Enthusiast;Strong+Interest+in+DSA+%26+Problem+Solving;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" />
 
 </div>
 
@@ -16,8 +16,9 @@
 
 <div align="center">
 
- **Passionate learner and developer** who loves building **full-stack web apps**, exploring **DSA**, and working with **modern tech tools**.  
- Currently diving deep into **JavaScript, React, Firebase, and MongoDB**, while also sharpening my **C++, Python, and Java** fundamentals for problem solving and algorithmic thinking.
+ Curious and motivated engineering student who loves coding and learning new technologies. 
+Actively working on **web development projects** and strengthening **problem-solving** skills through **DSA**. 
+Interested in **full-stack development** and always eager to improve and learn something new every day.
 
 </div>  
 
@@ -81,7 +82,7 @@
   </tr>
 
   <tr>
-    <td><b>K-KART</b><br><i> a simple web-based e-commerce application</i></td>
+    <td><b>E-KART</b><br><i> a simple web-based e-commerce application</i></td>
     <td>
      The project allows users to view products, add items to the cart, and place orders. It uses JDBC for database connectivity to store and retrieve product and user information. This project helped me understand backend logic, database operations, and full-stack basics.
     </td>
