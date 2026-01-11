@@ -81,15 +81,15 @@
   </tr>
 
   <tr>
-    <td><b>ECHOSOUL</b><br><i>Digital Emotional Wellness Platform</i></td>
+    <td><b>K-KART</b><br><i> a simple web-based e-commerce application</i></td>
     <td>
-      A comprehensive mental health platform designed to help teens and young adults process emotions, reflect, and grow through therapeutic tools and AI-powered support.
+     The project allows users to view products, add items to the cart, and place orders. It uses JDBC for database connectivity to store and retrieve product and user information. This project helped me understand backend logic, database operations, and full-stack basics.
     </td>
     <td>
-      React.js • Tailwind CSS • MongoDB • Firebase • AI APIs
+      HTML • CSS • JAVA • JDBC • MYSQL
     </td>
     <td>
-      🔗 <a href="https://github.com/sabariyuhendh/echosoul" target="_blank">View →</a>
+      🔗 <a href="https://github.com/Sineka07/Springboot-Ecommerce-App.git" target="_blank">View →</a>
     </td>
   </tr>
 
