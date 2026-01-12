@@ -140,7 +140,7 @@ Interested in **full-stack development** and always eager to improve and learn s
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 120+ | 1477 |
+| **LeetCode** | 150+ | 1477 |
 | **CodeChef** | 1200+ | 1322 |
 | **CodeForces** | 15+ | 989 |
 | **GeeksForGeeks** | 180+ | - |
