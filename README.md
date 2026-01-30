@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sineka07&color=8B5CF6&style=for-the-badge&label=Profile+Views )
+![Profile Views](https://komarev.com/ghpvc/?username=Sineka07&color=8B5CF6&style=for-the-badge&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/Sineka07?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000 )
 ![GitHub User's stars](https://img.shields.io/github/stars/Sineka07?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
