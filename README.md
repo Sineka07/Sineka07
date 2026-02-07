@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sineka%20S&section=header&reversal=false&textBg=false&fontSize=75&fontAlign=50&fontAlignY=49&desc=&&descAlign=40&descAlignY=60" alt="Header">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;🚀+Full-Stack+Web+Development+Enthusiast;Strong+Interest+in+DSA+%26+Problem+Solving;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;🚀+Full-Stack+Web+Development+Enthusiast;Strong+Interest+in+DSA+%26+Problem+Solving;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" / >
 
 </div>
 
