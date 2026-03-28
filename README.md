@@ -19,7 +19,6 @@
  Curious and motivated engineering student who loves coding and learning new technologies. 
 Actively working on **web development projects** and strengthening **problem-solving** skills through **DSA**. 
 Interested in **full-stack development** and always eager to improve and learn something new every day.
-
 </div>  
 
 
