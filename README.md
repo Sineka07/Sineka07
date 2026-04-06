@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;🚀+Full-Stack+Web+Development+Enthusiast;Strong+Interest+in+DSA+%26+Problem+Solving;Building+Projects+%7C+Learning+Every+Day" alt="Typing SVG" />
 
+
 </div>
 
 <div align="center">
