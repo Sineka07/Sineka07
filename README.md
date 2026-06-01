@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sineka%20S&section=header&reversal=false&textBg=false&fontSize=75&fontAlign=50&fontAlignY=49&desc=&&descAlign=40&descAlignY=60" alt="Header">
 
