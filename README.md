@@ -38,6 +38,7 @@ Interested in **full-stack development** and always eager to improve and learn s
     </td>
   </tr>
 
+
   <tr>
     <th align="left">Frontend Development</th>
     <td>
