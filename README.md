@@ -97,31 +97,6 @@ Interested in **full-stack development** and always eager to improve and learn s
     </td>
   </tr>
 
-  <tr>
-    <td><b>VULNERABILITY SCANNER</b><br><i>Real-time Web Application Security Scanner</i></td>
-    <td>
-      A collaborative project to build a real-time vulnerability scanner for web applications with comprehensive reporting and dashboard features.
-    </td>
-    <td>
-      React.js • Tailwind CSS • GitHub
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/vulnerability-scanner" target="_blank">View →</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>DEVCONNECT</b><br><i>Developer Social Network & Collaboration Hub</i></td>
-    <td>
-      A specialized social networking and collaboration platform designed exclusively for software developers, unifying professional networking, knowledge exchange, and peer collaboration.
-    </td>
-    <td>
-      React.js • Node.js • MongoDB • WebSockets
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/devconnect" target="_blank">View →</a>
-    </td>
-  </tr>
 
   <tr>
     <td><b>EXPENSE TRACKER</b><br><i>Financial Management System</i></td>
