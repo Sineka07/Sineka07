@@ -25,6 +25,7 @@ Interested in **full-stack development** and always eager to improve and learn s
 
 
 
+
 ##  Technical Skills  
 
 <table align="center" width="100%">
