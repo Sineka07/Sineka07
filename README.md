@@ -117,10 +117,10 @@ Interested in **full-stack development** and always eager to improve and learn s
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 150+ | 1477 |
-| **CodeChef** | 1200+ | 1322 |
-| **CodeForces** | 15+ | 989 |
-| **GeeksForGeeks** | 180+ | - |
+| **LeetCode** | 550+ | 1977 |
+| **CodeChef** | 1500+ | 1522 |
+| **CodeForces** | 60+ | 1110 |
+| **GeeksForGeeks** | 380+ | - |
 
 ###  **Hackathon Achievements**
 - **1st Place** - CodeSmash (Inter-college DSA Hackathon)
